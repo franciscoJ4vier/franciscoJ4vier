@@ -1,5 +1,5 @@
-## Hi there 👋
-#               <h3>¡Hola! 👋</h3>
+## <h3>¡Hola! 👋</h3>
+#               
 #                <p>
 #                   Soy un artista multidisciplinario, ilustrador y desarrollador web en formación, interesado en las artes gráficas y sonoras. Me apasionan las aplicaciones interactivas, la realidad virtual y crear experiencias significativas. Busco desarrollar tanto servicios empresariales como juegos que ofrezcan entretenimiento y valor.
 #                   <br><br>
